@@ -31,3 +31,5 @@ The company will then select the most suitable bid and places the order to that 
 * Java
 * JDBC
 * MySQL
+
+<img src="https://i.postimg.cc/hGNVPhWw/diagram.png">
